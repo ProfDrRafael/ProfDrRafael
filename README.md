@@ -6,11 +6,11 @@
 - 🎓 **Master’s in Informatics** – Federal University of Paraná (UFPR).  
 - 🎓 **Undergraduate degree in Systems Analysis and Development** – Federal Technological University of Paraná (UTFPR).  
 - 🎓 **Specializations**:
-  - Computer Networks – Faculdade Sant’Ana;  
-  - Higher Education Teaching: Educational Technologies and Innovation – Universidade Cesumar.  
+  - Computer Networks – Sant’Ana College;  
+  - Higher Education Teaching: Educational Technologies and Innovation – Cesumar University.  
 
 ## 👨‍🏫 Teaching Experience
-- Undergraduate courses at UFMS, UTFPR, Universidade Cesumar, and Federal Institutes of Santa Catarina.  
+- Undergraduate courses at UFMS, UTFPR, UniCesumar, and Federal Institutes of Santa Catarina.  
 - Specialization courses in **Web and Mobile Applications Development** at UniGuairacá.  
 - Teaching across diverse programs: Computer Science, Software Engineering, Systems Analysis and Development, Mechanical Manufacturing, Electronic Engineering, Chemical Engineering, Bioprocess and Biotechnology Engineering, Production Engineering, Mechanical Engineering, and Natural Sciences.  
 
