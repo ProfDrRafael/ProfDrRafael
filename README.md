@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Rafael Canteri
 
 ## 📚 About Me
-- 🎓 **Associate Professor II** at the Federal University of Mato Grosso do Sul (UFMS), teaching undergraduate course of Bachelor in Information Systems.  
+- 🎓 **Higher Education Professor** at the Federal University of Mato Grosso do Sul (UFMS), teaching undergraduate course of Bachelor in Information Systems.  
 - 🎓 **PhD in Computer Science** – Federal University of Paraná (UFPR).  
 - 🎓 **Master’s in Informatics** – Federal University of Paraná (UFPR).  
 - 🎓 **Undergraduate degree in Systems Analysis and Development** – Federal Technological University of Paraná (UTFPR).  
