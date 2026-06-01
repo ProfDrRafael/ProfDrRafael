@@ -28,4 +28,4 @@
 - **Software Engineering**: UML, Analysis & Design  
 
 💡 *Passionate about teaching, researching, and building innovative solutions in Computer Science.*  
-📫 Reach me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/rafael-canteri)) or here on GitHub!
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rafael-canteri) or here on GitHub!
